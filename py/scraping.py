@@ -82,7 +82,7 @@ json = ""
 
 def getChap(title, url, chap_len):
     directory = title
-    parent_dir = "C:\\Users\\UTILISATEUR\\Documents\\Bible_app\\"
+    parent_dir = "C:\\Users\\YaSamy\\Documents\\Ads-Free-French-Bible\\livres\\"
     path = os.path.join(parent_dir, directory)
     os.mkdir(path)
     for j in range(int(chap_len)):
@@ -97,7 +97,7 @@ def getChap(title, url, chap_len):
             else:
                 fullText = fullText + " " + str(inc) + " " + i.text
             inc = inc + 1
-        f = open(path+"/"+str(url)+"-"+str(j+1)+".txt", "a")
+        f = open(path+"/"+str(url)+"-"+str(j+1)+".txt", "a", encoding="utf-8")
         f.write(fullText)
         f.close()
 
@@ -108,7 +108,7 @@ options.add_argument('--disable-gpu')
 driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
 
 #for loop
-for x in range( 43, len(bible) ):
+for x in range( len(bible) ):
     title = str(x+1)+"-"+bible[x][0]
     url = bible[x][1]
     chap_len = bible[x][2]
