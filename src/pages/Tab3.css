@@ -7,11 +7,12 @@
 
 .textFormat {
     line-height: 30px;
-    font-size: 0.9rem;
+    font-size: 1rem;
     font-family: 'OpenSans';
     font-weight: 600;
     display: flex;
-    margin:  10px auto 10px;
-    width: 90%;
+    margin: 10px;
+    width: 90% !important;
     white-space: break-spaces;
+    text-align: left;
 }

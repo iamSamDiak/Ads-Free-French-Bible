@@ -1,1 +1,39 @@
-1 Voici ceux qui apposèrent leur sceau. Néhémie, le gouverneur, fils de Hacalia. Sédécias, 2 Seraja, Azaria, Jérémie, 3 Paschhur, Amaria, Malkija, 4 Hattusch, Schebania, Malluc, 5 Harim, Merémoth, Abdias, 6 Daniel, Guinnethon, Baruc, 7 Meschullam, Abija, Mijamin, 8 Maazia, Bilgaï, Schemaeja, sacrificateurs. 9 Lévites: Josué, fils d'Azania, Binnuï, des fils de Hénadad, Kadmiel, 10 et leurs frères, Schebania, Hodija, Kelitha, Pelaja, Hanan, 11 Michée, Rehob, Haschabia, 12 Zaccur, Schérébia, Schebania, 13 Hodija, Bani, Beninu. 14 Chefs du peuple: Pareosch, Pachath-Moab, Elam, Zatthu, Bani, 15 Bunni, Azgad, Bébaï, 16 Adonija, Bigvaï, Adin, 17 Ather, Ezéchias, Azzur, 18 Hodija, Haschum, Betsaï, 19 Hariph, Anathoth, Nébaï, 20 Magpiasch, Meschullam, Hézir, 21 Meschézabeel, Tsadok, Jaddua, 22 Pelathia, Hanan, Anaja, 23 Hosée, Hanania, Haschub, 24 Hallochesch, Pilcha, Schobek, 25 Rehum, Haschabna, Maaséja, 26 Achija, Hanan, Anan, 27 Malluc, Harim, Baana. 28 Le reste du peuple, les sacrificateurs, les Lévites, les portiers, les chantres, les Néthiniens, et tous ceux qui s'étaient séparés des peuples étrangers pour suivre la loi de Dieu, leurs femmes, leurs fils et leurs filles, tous ceux qui étaient capables de connaissance et d'intelligence, 29 se joignirent à leurs frères les plus considérables d'entre eux. Ils promirent avec serment et jurèrent de marcher dans la loi de Dieu donnée par Moïse, serviteur de Dieu, d'observer et de mettre en pratique tous les commandements de l'Eternel, notre Seigneur, ses ordonnances et ses lois. 30 Nous promîmes de ne pas donner nos filles aux peuples du pays et de ne pas prendre leurs filles pour nos fils; 31 de ne rien acheter, le jour du sabbat et les jours de fête, des peuples du pays qui apporteraient à vendre, le jour du sabbat, des marchandises ou denrées quelconques; et de faire relâche la septième année, en n'exigeant le paiement d'aucune dette. 32 Nous nous imposâmes aussi des ordonnances qui nous obligeaient à donner un tiers de sicle par année pour le service de la maison de notre Dieu, 33 pour les pains de proposition, pour l'offrande perpétuelle, pour l'holocauste perpétuel des sabbats, des nouvelles lunes et des fêtes, pour les choses consacrées, pour les sacrifices d'expiation en faveur d'Israël, et pour tout ce qui se fait dans la maison de notre Dieu. 34 Nous tirâmes au sort, sacrificateurs, Lévites et peuple, au sujet du bois qu'on devait chaque année apporter en offrande à la maison de notre Dieu, selon nos maisons paternelles, à des époques fixes, pour qu'il fût brûlé sur l'autel de l'Eternel, notre Dieu, comme il est écrit dans la loi. 35 Nous résolûmes d'apporter chaque année à la maison de l'Eternel les prémices de notre sol et les prémices de tous les fruits de tous les arbres; 36 d'amener à la maison de notre Dieu, aux sacrificateurs qui font le service dans la maison de notre Dieu, les premiers-nés de nos fils et de notre bétail, comme il est écrit dans la loi, les premiers-nés de nos boeufs et de nos brebis; 37 d'apporter aux sacrificateurs, dans les chambres de la maison de notre Dieu, les prémices de notre pâte et nos offrandes, des fruits de tous les arbres, du moût et de l'huile; et de livrer la dîme de notre sol aux Lévites qui doivent la prendre eux-mêmes dans toutes les villes situées sur les terres que nous cultivons. 38 Le sacrificateur, fils d'Aaron, sera avec les Lévites quand ils lèveront la dîme; et les Lévites apporteront la dîme de la dîme à la maison de notre Dieu, dans les chambres de la maison du trésor. 39 Car les enfants d'Israël et les fils de Lévi apporteront dans ces chambres les offrandes de blé, de moût et d'huile; là sont les ustensiles du sanctuaire, et se tiennent les sacrificateurs qui font le service, les portiers et les chantres. C'est ainsi que nous résolûmes de ne pas abandonner la maison de notre Dieu.
+1 Voici ceux qui apposÃ¨rent leur sceau. NÃ©hÃ©mie, le gouverneur, fils de Hacalia. SÃ©dÃ©cias,
+2 Seraja, Azaria, JÃ©rÃ©mie,
+3 Paschhur, Amaria, Malkija,
+4 Hattusch, Schebania, Malluc,
+5 Harim, MerÃ©moth, Abdias,
+6 Daniel, Guinnethon, Baruc,
+7 Meschullam, Abija, Mijamin,
+8 Maazia, BilgaÃ¯, Schemaeja, sacrificateurs.
+9 LÃ©vites: JosuÃ©, fils d'Azania, BinnuÃ¯, des fils de HÃ©nadad, Kadmiel,
+10 et leurs frÃ¨res, Schebania, Hodija, Kelitha, Pelaja, Hanan,
+11 MichÃ©e, Rehob, Haschabia,
+12 Zaccur, SchÃ©rÃ©bia, Schebania,
+13 Hodija, Bani, Beninu.
+14 Chefs du peuple: Pareosch, Pachath-Moab, Elam, Zatthu, Bani,
+15 Bunni, Azgad, BÃ©baÃ¯,
+16 Adonija, BigvaÃ¯, Adin,
+17 Ather, EzÃ©chias, Azzur,
+18 Hodija, Haschum, BetsaÃ¯,
+19 Hariph, Anathoth, NÃ©baÃ¯,
+20 Magpiasch, Meschullam, HÃ©zir,
+21 MeschÃ©zabeel, Tsadok, Jaddua,
+22 Pelathia, Hanan, Anaja,
+23 HosÃ©e, Hanania, Haschub,
+24 Hallochesch, Pilcha, Schobek,
+25 Rehum, Haschabna, MaasÃ©ja,
+26 Achija, Hanan, Anan,
+27 Malluc, Harim, Baana.
+28 Le reste du peuple, les sacrificateurs, les LÃ©vites, les portiers, les chantres, les NÃ©thiniens, et tous ceux qui s'Ã©taient sÃ©parÃ©s des peuples Ã©trangers pour suivre la loi de Dieu, leurs femmes, leurs fils et leurs filles, tous ceux qui Ã©taient capables de connaissance et d'intelligence,
+29 se joignirent Ã  leurs frÃ¨res les plus considÃ©rables d'entre eux. Ils promirent avec serment et jurÃ¨rent de marcher dans la loi de Dieu donnÃ©e par MoÃ¯se, serviteur de Dieu, d'observer et de mettre en pratique tous les commandements de l'Eternel, notre Seigneur, ses ordonnances et ses lois.
+30 Nous promÃ®mes de ne pas donner nos filles aux peuples du pays et de ne pas prendre leurs filles pour nos fils;
+31 de ne rien acheter, le jour du sabbat et les jours de fÃªte, des peuples du pays qui apporteraient Ã  vendre, le jour du sabbat, des marchandises ou denrÃ©es quelconques; et de faire relÃ¢che la septiÃ¨me annÃ©e, en n'exigeant le paiement d'aucune dette.
+32 Nous nous imposÃ¢mes aussi des ordonnances qui nous obligeaient Ã  donner un tiers de sicle par annÃ©e pour le service de la maison de notre Dieu,
+33 pour les pains de proposition, pour l'offrande perpÃ©tuelle, pour l'holocauste perpÃ©tuel des sabbats, des nouvelles lunes et des fÃªtes, pour les choses consacrÃ©es, pour les sacrifices d'expiation en faveur d'IsraÃ«l, et pour tout ce qui se fait dans la maison de notre Dieu.
+34 Nous tirÃ¢mes au sort, sacrificateurs, LÃ©vites et peuple, au sujet du bois qu'on devait chaque annÃ©e apporter en offrande Ã  la maison de notre Dieu, selon nos maisons paternelles, Ã  des Ã©poques fixes, pour qu'il fÃ»t brÃ»lÃ© sur l'autel de l'Eternel, notre Dieu, comme il est Ã©crit dans la loi.
+35 Nous rÃ©solÃ»mes d'apporter chaque annÃ©e Ã  la maison de l'Eternel les prÃ©mices de notre sol et les prÃ©mices de tous les fruits de tous les arbres;
+36 d'amener Ã  la maison de notre Dieu, aux sacrificateurs qui font le service dans la maison de notre Dieu, les premiers-nÃ©s de nos fils et de notre bÃ©tail, comme il est Ã©crit dans la loi, les premiers-nÃ©s de nos boeufs et de nos brebis;
+37 d'apporter aux sacrificateurs, dans les chambres de la maison de notre Dieu, les prÃ©mices de notre pÃ¢te et nos offrandes, des fruits de tous les arbres, du moÃ»t et de l'huile; et de livrer la dÃ®me de notre sol aux LÃ©vites qui doivent la prendre eux-mÃªmes dans toutes les villes situÃ©es sur les terres que nous cultivons.
+38 Le sacrificateur, fils d'Aaron, sera avec les LÃ©vites quand ils lÃ¨veront la dÃ®me; et les LÃ©vites apporteront la dÃ®me de la dÃ®me Ã  la maison de notre Dieu, dans les chambres de la maison du trÃ©sor.
+39 Car les enfants d'IsraÃ«l et les fils de LÃ©vi apporteront dans ces chambres les offrandes de blÃ©, de moÃ»t et d'huile; lÃ  sont les ustensiles du sanctuaire, et se tiennent les sacrificateurs qui font le service, les portiers et les chantres. C'est ainsi que nous rÃ©solÃ»mes de ne pas abandonner la maison de notre Dieu.

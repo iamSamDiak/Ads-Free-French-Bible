@@ -13,9 +13,6 @@ defineCustomElements(window);
 ReactDOM.render(
   <React.StrictMode>
   <div>
-    <Helmet>
-      <meta charSet="utf8" />
-    </Helmet>
     <App />
   </div>
   </React.StrictMode>,

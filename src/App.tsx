@@ -1,6 +1,9 @@
-import { Redirect, Route, useParams } from 'react-router-dom';
+import { Redirect, Route, Link, useParams, useHistory } from 'react-router-dom';
 import {
   IonApp,
+  IonPage,
+  IonText,
+  IonContent,
   IonIcon,
   IonLabel,
   IonRouterOutlet,
@@ -13,6 +16,7 @@ import { ellipse, square, triangle } from 'ionicons/icons';
 import Tab1 from './pages/Tab1';
 import Tab2 from './pages/Tab2';
 import Tab3 from './pages/Tab3';
+import React, { useState, useEffect } from 'react';
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
@@ -33,35 +37,37 @@ import '@ionic/react/css/display.css';
 /* Theme variables */
 import './theme/variables.css';
 
-const App: React.FC = () => (
-  <IonApp>
-    <IonReactRouter>
-      <IonTabs>
-        <IonRouterOutlet>
-          <Route exact path="/tab1">
-            <Tab1 />
-          </Route>
-          <Route exact path="/tab2/:livreId" component = {Tab2} />
-          <Route exact path="/tab3/:livreId/:livreDir/:livreChap" component = {Tab3} />
-        </IonRouterOutlet>
+const App = () => {
+  const [state, setState] = useState(localStorage.getItem("path"));
+  const [isLoaded, setLoaded] = useState(false);
 
-        <IonTabBar slot="bottom">
-          <IonTabButton tab="tab1" href="/tab1">
-            <IonIcon icon={triangle} />
-            <IonLabel>Tab 1</IonLabel>
-          </IonTabButton>
-          <IonTabButton tab="tab2" href="/tab2">
-            <IonIcon icon={ellipse} />
-            <IonLabel>Tab 2</IonLabel>
-          </IonTabButton>
-          <IonTabButton tab="tab3" href="/tab3">
-            <IonIcon icon={square} />
-            <IonLabel>Tab 3</IonLabel>
-          </IonTabButton>
-        </IonTabBar>
-      </IonTabs>
-    </IonReactRouter>
-  </IonApp>
-);
+  useEffect(() => {
+    setLoaded(true);
+    setState(localStorage.getItem("path"));
+  }, []);
+  return(
+  <IonApp>
+    {
+      !isLoaded ? (
+        <IonPage>
+          <IonContent>
+            <IonText>Loading...</IonText>
+          </IonContent>
+        </IonPage>
+      ) : (
+          <IonReactRouter>
+              <IonRouterOutlet>
+                <Route exact path={["/", "/tab1"]}>
+                  <Tab1 />
+                </Route>
+                <Route exact path="/tab2/:livreId" component = {Tab2} />
+                <Route exact path="/tab3/:livreId/:livreDir/:key" component = {Tab3} />
+              </IonRouterOutlet>
+          </IonReactRouter>
+      )
+    }
+    </IonApp>
+  )
+};
 
 export default App;

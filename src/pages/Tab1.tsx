@@ -1,6 +1,7 @@
-import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonItem, IonLabel, IonList } from '@ionic/react';
+import { IonContent, IonRow, IonCol, IonText, IonHeader, IonPage, IonTitle, IonToolbar, IonItem, IonLabel, IonList } from '@ionic/react';
 import ExploreContainer from '../components/ExploreContainer';
 import './Tab1.css';
+import Tabs from './Tabs';
 import data from "./../data/bible.json";
 import { useParams } from 'react-router';
 import "utf8";
@@ -25,6 +26,7 @@ const Tab1: React.FC = () => {
           );
         })}
       </IonContent>
+      <Tabs/>
     </IonPage>
   );
 };

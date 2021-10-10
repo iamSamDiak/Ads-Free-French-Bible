@@ -7,6 +7,7 @@ import { BrowserRouter as Router,
 import data from "./../data/bible.json";
 import { useParams, useLocation } from 'react-router';
 import './Tab2.css';
+import Tabs from "./Tabs"
 
 const Tab2 = () => {
 
@@ -26,7 +27,7 @@ const Tab2 = () => {
         {Bible.chapitres.map((d, key) => {
         return (
           <IonCol size="3">
-          <IonItem className="chapFormat" href={`/tab3/${livreId}/${livreId}-${Bible.livre}/${Bible.chapitres[key]}`} key={key}>
+          <IonItem className="chapFormat" href={`/tab3/${livreId}/${livreId}-${Bible.livre}/${key+1}`} key={key}>
             <IonLabel>{key+1}</IonLabel>
           </IonItem>
           </IonCol>
@@ -35,6 +36,7 @@ const Tab2 = () => {
       </IonRow>
       </IonContent>
       </IonContent>
+      <Tabs/>
     </IonPage>
   );
 };

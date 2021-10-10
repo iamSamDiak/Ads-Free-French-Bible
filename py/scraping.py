@@ -82,7 +82,7 @@ json = ""
 
 def getChap(title, url, chap_len):
     directory = title
-    parent_dir = "C:\\Users\\YaSamy\\Documents\\Ads-Free-French-Bible\\livres\\"
+    parent_dir = "C:\\Users\\UTILISATEUR\\Documents\\Bible_app\\livres\\"
     path = os.path.join(parent_dir, directory)
     os.mkdir(path)
     for j in range(int(chap_len)):

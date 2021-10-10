@@ -1,0 +1,9 @@
+.navigation-bottom{
+	z-index: 100;
+}
+
+.navigation-bottom ion-col{
+	text-align: center;
+	margin: 15px;
+	padding: 5px;
+}
