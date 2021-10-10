@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'OpenSans';
+  src: url('./webfonts/OpenSans-Medium.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+.textFormat {
+    line-height: 30px;
+    font-size: 0.9rem;
+    font-family: 'OpenSans';
+    font-weight: 600;
+    display: flex;
+    margin:  10px auto 10px;
+    width: 90%;
+    white-space: break-spaces;
+}
