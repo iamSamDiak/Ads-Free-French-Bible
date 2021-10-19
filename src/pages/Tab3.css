@@ -2,14 +2,19 @@
 
 @font-face {
   font-family: 'OpenSans';
-  src: url('./webfonts/OpenSans-Medium.ttf')  format('truetype'); /* Safari, Android, iOS */
+  src: url('./webfonts/OpenSans-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'Rasa';
+  src: url('./webfonts/Rasa-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
 }
 
 .textFormat {
     line-height: 30px;
-    font-size: 1rem;
-    font-family: 'OpenSans';
-    font-weight: 600;
+    font-size: 1.2rem;
+    font-family: 'Rasa';
+    /*font-weight: 400;*/
     display: flex;
     margin: 10px;
     width: 90% !important;
